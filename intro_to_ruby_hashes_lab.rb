@@ -10,10 +10,10 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = Hash.new
   monopoly[:railroads] = Hash.new
-  monopoly[:railroads]
 end
+
 
 def monopoly_with_second_tier
 	
