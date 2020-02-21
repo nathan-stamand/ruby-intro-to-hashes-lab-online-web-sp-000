@@ -2,7 +2,7 @@
 
 def new_hash
   new_hash = Hash.new
-  new_hash
+
 end
 
 def actor
