@@ -11,8 +11,8 @@ end
 
 def monopoly
 	monopoly = {}
-  monopoly[:railroads] = Hash
-
+  monopoly[:railroads] = Hash.new
+  monopoly[:railroads]
 end
 
 def monopoly_with_second_tier
