@@ -11,7 +11,7 @@ end
 
 def monopoly
 	monopoly = {}
-  monopoly[:railroads] = {}
+  monopoly[:railroads] = Hash
 
 end
 
