@@ -9,8 +9,7 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
-  monopoly[:railroads] = new_hash
+  monopoly = {railroad: new_hash}
 end
 
 
