@@ -17,6 +17,7 @@ def monopoly_with_second_tier
   monopoly = {railroads: new_hash}
 	monopoly[:railroads][:pieces] = 4
   monopoly[:railroads][:rent_in_dollars] = new_hash
+  monopoly[:railroads][:names] = new_hash
   monopoly
 end
 
